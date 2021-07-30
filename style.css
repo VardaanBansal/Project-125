@@ -1,0 +1,12 @@
+.copy_right_footer
+{
+    width: 100%;
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+}
+canvas
+{
+    border: 10px;
+    box-shadow: crimson;
+}
